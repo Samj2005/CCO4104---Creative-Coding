@@ -68,6 +68,6 @@ This was created by drawing a combination of shapes to create a fun interface fo
 
 The final experiment I had created took things to a new level. Using the same interface as before and using similar keyboard commands where I wanted to implement further fun features for the control panel. The idea here was to create a drawing tool in a sense. Where I had removed the background to allow the square to leave a pattern and change colors: 
 
-[Further Experiment 2](/EXPERIMENT 1 - FURTHER EXPERIMENT 2/index.html)
+[Further Experiment 2](/EXPERIMENT 1 - EXPERIMENT 1 - FE2/index.html)
 
 
