@@ -18,4 +18,46 @@ let border = 1
 
 ```
 
-Once I had set the variables, I used a 
+Once I had set the variables, I used p5's built in keyIsPressed function to set each keyboard input for these properties to be altered. This allows for the keyboard to essentially await these commands where it will constantly run the action frame after frame. 
+
+```
+
+ if(keyIsPressed){
+    if(key == '(blank space)'){
+      square(squareX,squareY,squareS);
+  }
+    else if(key == 'w'){
+      squareY = squareY - speed;
+  }
+    else if(key == 's'){
+      squareY = squareY + speed;
+  }
+    else if(key == 'a'){
+      squareX = squareX - speed;
+  }
+    else if(key == 'd'){
+      squareX = squareX + speed;
+  }
+    else if(key == 'ArrowUp'){
+      squareS = squareS + 1
+    }
+    else if(key == 'ArrowDown'){
+      squareS = squareS - 1
+    }
+    else if(key == 'r'){
+      squareColor = color(225,0,0);
+    }
+    else if(key == 'e'){
+      border = border +1;
+    }
+    else if(key == 'q'){
+      border = border - 1;
+    }
+    else if(key == 't'){
+      
+    }
+  ```
+
+As seen here, many of the properties gets altered over time. The main variable I used was speed which states how many pixels the square grows/shrinks by  for example. Or how much the X,Y values move when pressed. 
+
+
