@@ -608,6 +608,6 @@ function mouseDragged() {
 In the initial response, the fishes physics was extremley buggy where I had to improve it directly and the fish and bubbles also appeared over the water. By adjusting the fishes random spawn vector using the waves co-ordinates, the fish now stay below the waves and do not pass above it in their hoizontal movements. 
 I improved the collision mechnaics by increasing the collision range of each object which makes the fishes able to bump and interact with the floating balls once more. I also added more objects using the soft physics to make the whole experience pop. And it is now extremley playful: 
 
-
+My version [Experiment 3 - Final Experiemnt 2](/Experiment 3 - FE2/index.html)
 
 
