@@ -243,7 +243,7 @@ class Water {
 
 ```
 
-My version [Experiment 3 - Further Experiment 1](/Experiment 3 - FE1/index.html)
+My version [Experiment 3 - Further Experiment 1](/EXPERIMENT 3 - FE1/index.html)
 
 With this response, AI uses vertexs and the constrcutor tool to create with waving shape that expands and returns to its original shape like a soundwave on repeat. It also implements each wave moving with the shapes depending on their weight and mass utilising classes to add the velocity of the waves. The chnages I made to this initial response is again I wanted to make it playful. I once again duplicated the object class so more balls would spawn where the program turns into this fun ball pit on the sea physic engine. Where the other 3 objects can move it in fun and interesting ways. I also expanded the window width and added some extra scenery to make the enitre program just pop entirely. 
 
@@ -608,6 +608,7 @@ function mouseDragged() {
 In the initial response, the fishes physics was extremley buggy where I had to improve it directly and the fish and bubbles also appeared over the water. By adjusting the fishes random spawn vector using the waves co-ordinates, the fish now stay below the waves and do not pass above it in their hoizontal movements. 
 I improved the collision mechnaics by increasing the collision range of each object which makes the fishes able to bump and interact with the floating balls once more. I also added more objects using the soft physics to make the whole experience pop. And it is now extremley playful: 
 
-My version [Experiment 3 - Final Experiemnt 2](/Experiment 3 - FE2/index.html)
+My version [Experiment 3 - Final Experiemnt 2](/EXPERIMENT 3 - FE2/index.html)
 
-
+Overall, I found working with AI to be very technical but not very creative. Alot of its code output was difficult to understand when making amendments and I found myself having to polish the graphics and playability to make it even more fun every single time.However
+the main benefit of using AI is it can brak the code down nicely to see where errors are. But again, its extremley over technical and complicated compared to my other programs. 
