@@ -97,3 +97,8 @@ hoirzontal position overlaps with x3s horizontal position between the pixel co-o
 For the further experiments, I kind of wanted to gamify what I had created. My next rendition I used functions to create the obstacle to look like a different shape and increased its hitbox to avoid on the collisions. Creating a fun dodge the car simulter with the same win conditions: 
 
 [Experiment 2 - Further experiment 1](/EXPERIMENT 2 - FURTHER EXPERIMENT 2/index.html) 
+
+The final further experiment I wanted to tackle was creating more of a neon look for the game. Where the players avatars are different colors and we have more object obstacles. My inspiration for this design is based of beat saber. For the object appearing from the bottom, I had 
+duplicated the objects variables and reversed their behaviour so they flow and respawn from the bottom of the scrann instead of the top. I also hid them behind a larger shape so the players can't see them respawn:
+
+[Further Experiment 2](/EXPERIMENT 2 - FURTHER EXPERIMENT 1/index.html)
