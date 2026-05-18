@@ -94,4 +94,6 @@ if(x1 + 50 > x3 && x1 - 50 < x3 + 100 && 900 + 50 > y && 900 - 50 < y + 100){
 Finally, the last feature I had to implement was a collision detection. How I programmed this essentially was using a boolean statement for the game over that stays false as the game is running. The two if statements correlate to each player where it checks the condition that player 1s 
 hoirzontal position overlaps with x3s horizontal position between the pixel co-ordinate ranges, it will et the boolean game over screen to true. We have to add on an extra 50 to each x value to allow the hit boxes of each of the objects. 
 
-For the further experiments, I kind of wanted to gamify what I had created. 
+For the further experiments, I kind of wanted to gamify what I had created. My next rendition I used functions to create the obstacle to look like a different shape and increased its hitbox to avoid on the collisions. Creating a fun dodge the car simulter with the same win conditions: 
+
+[Experiment 2 - Further experiment 1](/EXPERIMENT 2 - FURTHER EXPERIMENT 2/index.html) 
