@@ -60,4 +60,14 @@ Once I had set the variables, I used p5's built in keyIsPressed function to set 
 
 As seen here, many of the properties gets altered over time. The main variable I used was speed which states how many pixels the square grows/shrinks by  for example. Or how much the X,Y values move when pressed. 
 
+This simple code allowed me to be extremley playful when developing my further experiments. And idea I wanted to test was to condense the interface down to a gameboy like screen as presented in my earlier ideas. The results can be seen below:
+
+[Further Experiment 1](/EXPERIMENT 1 - FURTHER EXPERIMENT 1/index.html)
+
+This was created by drawing a combination of shapes to create a fun interface for the user. 
+
+The final experiment I had created took things to a new level. Using the same interface as before and using similar keyboard commands where I wanted to implement further fun features for the control panel. The idea here was to create a drawing tool in a sense. Where I had removed the background to allow the square to leave a pattern and change colors: 
+
+[Further Experiment 2](/EXPERIMENT 1 - FURTHER EXPERIMENT 2/index.html)
+
 
