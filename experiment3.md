@@ -243,6 +243,8 @@ class Water {
 
 ```
 
+My version [Experiment 3 - Further Experiment 1](/Experiment 3 - FE1/index.html)
+
 With this response, AI uses vertexs and the constrcutor tool to create with waving shape that expands and returns to its original shape like a soundwave on repeat. It also implements each wave moving with the shapes depending on their weight and mass utilising classes to add the velocity of the waves. The chnages I made to this initial response is again I wanted to make it playful. I once again duplicated the object class so more balls would spawn where the program turns into this fun ball pit on the sea physic engine. Where the other 3 objects can move it in fun and interesting ways. I also expanded the window width and added some extra scenery to make the enitre program just pop entirely. 
 
 However, I still wanted to find ways to make this even more playful. My next ideas were to implement moving fish into the water using AI and bubbles to make all these behaviours change whilst making the AI visually appealing: 
